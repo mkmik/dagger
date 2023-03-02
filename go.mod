@@ -61,6 +61,7 @@ require (
 require (
 	github.com/go-git/go-git/v5 v5.5.2
 	github.com/google/go-github/v50 v50.1.0
+	github.com/jackpal/gateway v1.0.7
 )
 
 require (
@@ -125,7 +126,6 @@ require (
 	github.com/hashicorp/go-retryablehttp v0.7.2 // indirect
 	github.com/hashicorp/golang-lru v0.5.4 // indirect
 	github.com/imdario/mergo v0.3.13 // indirect
-	github.com/jackpal/gateway v1.0.7 // indirect
 	github.com/jbenet/go-context v0.0.0-20150711004518-d14ea06fba99 // indirect
 	github.com/jmespath/go-jmespath v0.4.0 // indirect
 	github.com/kevinburke/ssh_config v1.2.0 // indirect
@@ -166,7 +166,7 @@ require (
 	go.opentelemetry.io/otel/exporters/otlp/otlptrace/otlptracehttp v1.12.0 // indirect
 	go.opentelemetry.io/otel/metric v0.34.0 // indirect
 	golang.org/x/exp v0.0.0-20221126150942-6ab00d035af9 // indirect
-	golang.org/x/image v0.1.0 // indirect
+	golang.org/x/image v0.5.0 // indirect
 	golang.org/x/oauth2 v0.1.0 // indirect
 	golang.org/x/xerrors v0.0.0-20220907171357-04be3eba64a2 // indirect
 	gonum.org/v1/plot v0.12.0 // indirect
